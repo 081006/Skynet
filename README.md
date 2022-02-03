@@ -1,3 +1,5 @@
+# loadstring(game:HttpGet("https://raw.githubusercontent.com/081006/Skynet/main/Loader"))()
+
 # Skynet
 Nice name i couldn't think anything else lol
 
